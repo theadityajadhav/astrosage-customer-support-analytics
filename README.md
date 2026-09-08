@@ -245,9 +245,9 @@ The allocation prioritizes technology, employee capability, customer management,
 
 ## Project Files
 
-- `AstroSage_Customer_Support_Analytics.xlsx` — Complete Excel workbook containing data preparation, analysis, calculations, and dashboard.
-- `AstroSage_Customer_Support_Analysis_Presentation.pptx` — Project presentation covering the analysis, findings, and recommendations.
-- `AstroSage_Customer_Support_Analytics_Report.docx` — Detailed project report documenting the analysis and findings.
+- [Excel Analysis Workbook](AstroSage_Customer_Support_Analytics.xlsx) — Complete Excel workbook containing data preparation, analysis, calculations, and dashboard.
+- [Project Presentation](AstroSage_Customer_Support_Analysis_Presentation.pptx) — Project presentation covering the analysis, findings, and recommendations.
+- [Detailed Project Report](AstroSage_Customer_Support_Analytics_Report.docx) — Detailed project report documenting the analysis and findings.
 
 ## Conclusion
 
